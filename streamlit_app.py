@@ -1,6 +1,6 @@
 import streamlit
 
-streamlit.title("My First Streamlit Project");
+streamlit.title("🥣 My First Streamlit Project");
 
 streamlit.header("Breakfast Menu");
 
